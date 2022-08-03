@@ -508,7 +508,11 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
-
+.form-group {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
 .scrollToTop {
     width: 40px;
     height: 40px;
