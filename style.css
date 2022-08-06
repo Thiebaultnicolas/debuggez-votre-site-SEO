@@ -680,7 +680,9 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 400;
 }
 
 .tight-width-whitespace {
@@ -739,7 +741,7 @@ h4 {
 }
 
 .white {
-    color: #575757!important;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
@@ -778,7 +780,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: #FDD835!important;
 }
 
 .btn-atomic-tangerine {
