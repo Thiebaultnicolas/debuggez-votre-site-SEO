@@ -641,7 +641,11 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
+#bloc-4-portfolio h3 {
+    font-size: 20px;
+    color: #333333!important;
+    opacity: .9;
+}
 h1,
 h2,
 h3,
