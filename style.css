@@ -793,6 +793,17 @@ h4 {
     color: #FDD835!important;
 }
 
+.text-center {
+    text-align: center;
+   
+}
+.col-sm-12 {
+    position: relative;
+}
+
+#bloc-6 p {
+    color: #FFF!important;
+}
 .btn-atomic-tangerine {
     background: #bb5c00;
     color: #FFFFFF!important;
