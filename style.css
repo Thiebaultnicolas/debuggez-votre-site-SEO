@@ -517,6 +517,7 @@ button {
 }
 #sondage {
     width: 35%;
+    color: #575757;
 }
 .form-group {
     display: flex;
