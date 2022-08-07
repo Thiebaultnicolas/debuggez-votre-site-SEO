@@ -511,6 +511,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 100%;
 }
 .form-group {
     display: flex;
@@ -666,7 +667,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 100%;
 }
 
 .hero-bloc-text {
@@ -804,6 +805,8 @@ h4 {
 #bloc-6 p {
     color: #FFF!important;
 }
+
+
 .btn-atomic-tangerine {
     background: #bb5c00;
     color: #FFFFFF!important;
