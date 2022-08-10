@@ -524,6 +524,10 @@ button {
     flex-direction: column;
     width: 100%;
 }
+.navbar-header img {
+    height: 40px;
+    width: auto;
+}
 .scrollToTop {
     width: 40px;
     height: 40px;
