@@ -526,7 +526,7 @@ button {
 }
 .navbar-header img {
     height: 40px;
-    width: auto;
+    width: 100%;
 }
 .scrollToTop {
     width: 40px;
